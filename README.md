@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Unmesh-12634
-- 👀 I’m interested in ... coding and music 
-- 🌱 I’m currently learning ... c / c++ , python,HTML-CSS- JAVA
-- 💞️ I’m looking to collaborate on ...Instagram 
-- 📫 How to reach me ...intagram - @unmesh12634 , mail- unmeshjoshi083@gmail.com 
-- 😄 Pronouns: ...mr
-- ⚡ Fun fact: ... Mostly do my work while listning to music 
-- 🎶 Hobbies: ... I am a musican 
-<!---
-Unmesh-12634/Unmesh-12634 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Unmesh Joshi
+
+🎓 2nd-year B.Tech Computer Science & Engineering student
+💻 Full Stack Developer | AI/ML Enthusiast
+
+I’m passionate about building real-world, problem-solving applications using modern web technologies and machine learning. I have hands-on experience in frontend and backend development, along with working on AI/ML-based projects through hackathons and practical learning.
+
+I’ve participated in national and international hackathons, including Smart India Hackathon (SIH) 2025, NASA International Space Apps Challenge, and ISRO’s Bharatiya Antariksh Hackathon, where I worked on innovative solutions in domains like mine safety, healthcare education, and space data analysis.
+
+🔧 Tech I work with:
+C, C++, Python, JavaScript | React.js, Tailwind CSS | Flask, Django |
+NumPy, Pandas, Scikit-learn, TensorFlow | MySQL, PostgreSQL | Git & GitHub
+
+🚀 Always learning, building, and improving through projects and certifications.
