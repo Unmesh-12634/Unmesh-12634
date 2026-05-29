@@ -1,6 +1,6 @@
 Hi, I’m Unmesh Joshi
 
-🎓 2nd-year B.Tech Computer Science & Engineering student
+🎓 3rd-year B.Tech Computer Science & Engineering student
 💻 Full Stack Developer | AI/ML Enthusiast
 
 I’m passionate about building real-world, problem-solving applications using modern web technologies and machine learning. I have hands-on experience in frontend and backend development, along with working on AI/ML-based projects through hackathons and practical learning.
