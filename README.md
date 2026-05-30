@@ -1,14 +1,43 @@
-Hi, I’m Unmesh Joshi
+# Hi there, I'm Unmesh Joshi 👋
 
-🎓 3rd-year B.Tech Computer Science & Engineering student
-💻 Full Stack Developer | AI/ML Enthusiast
+🎓 Third-Year B.Tech Computer Science & Engineering Student
 
-I’m passionate about building real-world, problem-solving applications using modern web technologies and machine learning. I have hands-on experience in frontend and backend development, along with working on AI/ML-based projects through hackathons and practical learning.
+💡 AI/ML Enthusiast | Full Stack Developer | Hackathon Builder
 
-I’ve participated in national and international hackathons, including Smart India Hackathon (SIH) 2025, NASA International Space Apps Challenge, and ISRO’s Bharatiya Antariksh Hackathon, where I worked on innovative solutions in domains like mine safety, healthcare education, and space data analysis.
+I enjoy transforming ideas into real-world products through software engineering, artificial intelligence, and modern web technologies. My interests lie at the intersection of AI-powered applications, full-stack development, and solving practical challenges through technology.
 
-🔧 Tech I work with:
-C, C++, Python, JavaScript | React.js, Tailwind CSS | Flask, Django |
-NumPy, Pandas, Scikit-learn, TensorFlow | MySQL, PostgreSQL | Git & GitHub
+Over the past few years, I have built projects in healthcare education, predictive analytics, and scientific data exploration while actively participating in national-level hackathons and innovation challenges. I enjoy leading teams, learning new technologies, and turning complex problems into scalable solutions.
 
-🚀 Always learning, building, and improving through projects and certifications.
+### 🚀 What I'm Working On
+- AI & Machine Learning Applications
+- Generative AI and RAG-Based Systems
+- Full Stack Web Development
+- Backend Development with Python
+- Data Structures & Algorithms
+- Cloud Technologies and Modern Development Workflows
+
+### 🛠 Tech Stack
+**Languages:** Python, Java, JavaScript, C++, SQL
+
+**Frontend:** React.js, Tailwind CSS, HTML5, CSS3
+
+**Backend:** Node.js, Flask, Django, REST APIs
+
+**AI/ML:** Machine Learning, Generative AI, RAG, NLP, Data Analysis
+
+**Databases:** MySQL, MongoDB, PostgreSQL, Firebase
+
+**Tools:** Git, GitHub, Vercel, Cloud Platforms
+
+### 🏆 Highlights
+- 🥇 Winner – Google Lakecity Hackathon
+- 🥈 First Runner-Up – SPSU AI Slingshot Hackathon
+- 🚀 Participated in 15+ National-Level Hackathons
+- 👨‍💻 Team Lead for AI/ML and Full Stack Projects
+- ☁️ OCI Generative AI Professional Certified
+
+### 📫 Let's Connect
+I'm always open to collaborating on AI, Full Stack, and innovative tech projects.
+
+LinkedIn: linkedin.com/in/unmesh-joshi-b0846431b
+GitHub: github.com/Unmesh-12634
